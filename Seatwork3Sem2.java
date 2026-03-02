@@ -45,7 +45,7 @@ class Animal {
                                                                                                                                                 }
                                                                                                                                                 }
 
-                                                                                                                                                public class Seatwork3 {
+                                                                                                                                                public class Seatwork3Sem2 {
                                                                                                                                                     public static void main(String[] args) {
 
                                                                                                                                                             Dog dog = new Dog();

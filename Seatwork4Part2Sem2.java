@@ -1,4 +1,4 @@
-public class Seatwork4Part2 {
+public class Seatwork4Part2Sem2 {
     	public int calculateArea(int side){
         		return side * side;
                 	}
